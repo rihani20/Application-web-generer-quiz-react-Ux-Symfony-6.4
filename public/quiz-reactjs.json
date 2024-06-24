@@ -1,0 +1,51 @@
+{
+    "title": "Quiz sur React JS",
+    "questions": [
+      {
+        "question": "Qu'est-ce que React JS ?",
+        "answers": [
+          "Un framework JavaScript pour les applications mobiles",
+          "Une bibliothèque JavaScript pour construire des interfaces utilisateur",
+          "Un langage de programmation pour le backend"
+        ],
+        "answer": "Une bibliothèque JavaScript pour construire des interfaces utilisateur"
+      },
+      {
+        "question": "Qui a développé React JS ?",
+        "answers": [
+          "Google",
+          "Facebook",
+          "Microsoft"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de React JS ?",
+        "answers": [
+          "Le typage statique",
+          "La programmation orientée objet",
+          "Le rendu déclaratif"
+        ],
+        "answer": "Le rendu déclaratif"
+      },
+      {
+        "question": "Qu'est-ce que JSX dans React JS ?",
+        "answers": [
+          "Un format de fichier pour les composants React",
+          "Un préprocesseur JavaScript similaire à TypeScript",
+          "Une extension syntaxique pour JavaScript qui permet d'écrire du HTML à l'intérieur de JavaScript"
+        ],
+        "answer": "Une extension syntaxique pour JavaScript qui permet d'écrire du HTML à l'intérieur de JavaScript"
+      },
+      {
+        "question": "Quel est l'outil recommandé pour gérer l'état dans une application React JS ?",
+        "answers": [
+          "Redux",
+          "Angular",
+          "jQuery"
+        ],
+        "answer": "Redux"
+      }
+    ]
+  }
+  

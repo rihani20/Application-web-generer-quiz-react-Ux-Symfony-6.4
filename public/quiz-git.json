@@ -1,0 +1,51 @@
+{
+    "title": "Quiz sur Git",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Git ?",
+        "answers": [
+          "Un serveur de base de données",
+          "Un système de gestion de versions distribué",
+          "Un langage de programmation"
+        ],
+        "answer": "Un système de gestion de versions distribué"
+      },
+      {
+        "question": "Qui est le créateur de Git ?",
+        "answers": [
+          "Linus Torvalds",
+          "Richard Stallman",
+          "Mark Zuckerberg"
+        ],
+        "answer": "Linus Torvalds"
+      },
+      {
+        "question": "Quelle est la commande pour initialiser un nouveau dépôt Git ?",
+        "answers": [
+          "git new",
+          "git init",
+          "git start"
+        ],
+        "answer": "git init"
+      },
+      {
+        "question": "Comment ajoute-t-on tous les fichiers modifiés à l'index dans Git ?",
+        "answers": [
+          "git stage .",
+          "git add .",
+          "git commit -a"
+        ],
+        "answer": "git add ."
+      },
+      {
+        "question": "Quelle est la commande pour cloner un dépôt Git distant ?",
+        "answers": [
+          "git pull",
+          "git clone",
+          "git fetch"
+        ],
+        "answer": "git clone"
+      }
+    ]
+  }
+  

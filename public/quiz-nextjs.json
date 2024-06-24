@@ -1,0 +1,51 @@
+{
+    "title": "Quiz sur Next.js",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Next.js ?",
+        "answers": [
+          "Un framework JavaScript pour les applications mobiles",
+          "Un framework JavaScript pour construire des applications web côté serveur et côté client",
+          "Une bibliothèque JavaScript pour les animations"
+        ],
+        "answer": "Un framework JavaScript pour construire des applications web côté serveur et côté client"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de Next.js ?",
+        "answers": [
+          "Le support du rendu côté serveur (SSR)",
+          "La gestion des états globaux",
+          "L'optimisation des performances des requêtes HTTP"
+        ],
+        "answer": "Le support du rendu côté serveur (SSR)"
+      },
+      {
+        "question": "Comment démarre-t-on un projet Next.js ?",
+        "answers": [
+          "Avec la commande 'npm start'",
+          "Avec la commande 'next start'",
+          "Avec la commande 'node app.js'"
+        ],
+        "answer": "Avec la commande 'npm start'"
+      },
+      {
+        "question": "Qu'est-ce que le pré-rendu statique (SSG) dans Next.js ?",
+        "answers": [
+          "Une méthode pour générer dynamiquement les pages à la demande",
+          "Une technique pour générer des pages HTML au moment de la construction",
+          "Un système pour optimiser les requêtes AJAX"
+        ],
+        "answer": "Une technique pour générer des pages HTML au moment de la construction"
+      },
+      {
+        "question": "Quelle est la fonctionnalité de routage dynamique de Next.js ?",
+        "answers": [
+          "Routeur flexible basé sur des règles",
+          "Routage basé sur des événements utilisateur",
+          "Gestion automatique des redirections HTTP"
+        ],
+        "answer": "Routeur flexible basé sur des règles"
+      }
+    ]
+  }
+  

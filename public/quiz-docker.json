@@ -1,0 +1,51 @@
+{
+    "title": "Quiz sur Docker",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Docker ?",
+        "answers": [
+          "Un logiciel de virtualisation",
+          "Une plateforme de conteneurisation",
+          "Un système d'exploitation"
+        ],
+        "answer": "Une plateforme de conteneurisation"
+      },
+      {
+        "question": "À quoi sert Docker Compose ?",
+        "answers": [
+          "À orchestrer des conteneurs Docker",
+          "À gérer des machines virtuelles",
+          "À automatiser les backups"
+        ],
+        "answer": "À orchestrer des conteneurs Docker"
+      },
+      {
+        "question": "Quelle est la différence entre une image Docker et un conteneur Docker ?",
+        "answers": [
+          "Une image est statique, un conteneur est en cours d'exécution",
+          "Une image contient du code source, un conteneur du code compilé",
+          "Une image est plus sécurisée qu'un conteneur"
+        ],
+        "answer": "Une image est statique, un conteneur est en cours d'exécution"
+      },
+      {
+        "question": "Comment exécuter un conteneur Docker ?",
+        "answers": [
+          "Avec la commande 'docker start'",
+          "Avec la commande 'docker run'",
+          "Avec la commande 'docker create'"
+        ],
+        "answer": "Avec la commande 'docker run'"
+      },
+      {
+        "question": "Qu'est-ce que Docker Hub ?",
+        "answers": [
+          "Un service de gestion de machines virtuelles",
+          "Un registre de conteneurs Docker",
+          "Un outil pour optimiser les performances des conteneurs"
+        ],
+        "answer": "Un registre de conteneurs Docker"
+      }
+    ]
+  }
+  

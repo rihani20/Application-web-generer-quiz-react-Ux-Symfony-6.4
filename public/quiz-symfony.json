@@ -1,0 +1,51 @@
+{
+    "title": "Quiz sur Symfony",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Symfony ?",
+        "answers": [
+          "Un framework PHP",
+          "Un système de gestion de bases de données",
+          "Une bibliothèque JavaScript"
+        ],
+        "answer": "Un framework PHP"
+      },
+      {
+        "question": "Quelle est la version actuelle stable de Symfony ?",
+        "answers": [
+          "4.x",
+          "5.x",
+          "3.x"
+        ],
+        "answer": "5.x"
+      },
+      {
+        "question": "Quelle est la commande Symfony pour créer un nouveau projet ?",
+        "answers": [
+          "symfony new",
+          "composer create-project symfony/skeleton",
+          "php artisan new"
+        ],
+        "answer": "composer create-project symfony/skeleton"
+      },
+      {
+        "question": "Quelle est la structure de répertoires standard d'un projet Symfony ?",
+        "answers": [
+          "Model-View-Controller",
+          "src/, var/, vendor/, etc.",
+          "public_html/, includes/, templates/"
+        ],
+        "answer": "src/, var/, vendor/, etc."
+      },
+      {
+        "question": "Qu'est-ce que Symfony Flex ?",
+        "answers": [
+          "Un outil pour gérer les dépendances",
+          "Un système de cache pour les applications Symfony",
+          "Une interface graphique pour administrer les bases de données"
+        ],
+        "answer": "Un outil pour gérer les dépendances"
+      }
+    ]
+  }
+  

@@ -1,0 +1,51 @@
+{
+    "title": "Quiz sur MySQL",
+    "questions": [
+      {
+        "question": "Qu'est-ce que MySQL ?",
+        "answers": [
+          "Un système de gestion de bases de données relationnelles",
+          "Un langage de programmation",
+          "Un framework PHP"
+        ],
+        "answer": "Un système de gestion de bases de données relationnelles"
+      },
+      {
+        "question": "Qui développe et maintient MySQL ?",
+        "answers": [
+          "Microsoft",
+          "Oracle Corporation",
+          "Apple Inc."
+        ],
+        "answer": "Oracle Corporation"
+      },
+      {
+        "question": "Quelle est la commande MySQL pour sélectionner une base de données ?",
+        "answers": [
+          "USE database_name;",
+          "SELECT database_name;",
+          "SHOW DATABASES;"
+        ],
+        "answer": "USE database_name;"
+      },
+      {
+        "question": "Comment affiche-t-on toutes les tables dans une base de données MySQL ?",
+        "answers": [
+          "SHOW TABLES;",
+          "LIST TABLES;",
+          "DISPLAY TABLES;"
+        ],
+        "answer": "SHOW TABLES;"
+      },
+      {
+        "question": "Quelle est la commande pour insérer des données dans une table MySQL ?",
+        "answers": [
+          "INSERT INTO table_name VALUES (value1, value2, ...);",
+          "UPDATE table_name SET column_name = value WHERE condition;",
+          "DELETE FROM table_name WHERE condition;"
+        ],
+        "answer": "INSERT INTO table_name VALUES (value1, value2, ...);"
+      }
+    ]
+  }
+  
